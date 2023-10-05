@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zero Waste</string>
+
+    <string-array name="names">
+        <item>BASMAH Foundation</item>
+        <item>Bidyanondo Foundation</item>
+        <item>FOOD BANK NETWORK BANGLADESH</item>
+        <item>APON Foundation</item>
+        <item>The Hunger Project</item>
+    </string-array>
+</resources>
